@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ResidentialApp</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_usage">Usage</string>
+    <string name="title_goals">Goals</string>
+    <string name="title_stop_watch">StopWatch</string>
+    <string name="title_more">More</string>
+
+
+</resources>
